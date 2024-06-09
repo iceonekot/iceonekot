@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @iceonekot
+- For now, I created this to post my Linux dotfiles, but I'm planning to add some Python projects when I learn how to code.
